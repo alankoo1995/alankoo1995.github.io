@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "QR Code Management System"
+date:   2018-07-30 00:00:00 +0530
+categories: Laravel PHP
+---
+
+This system empower staff generating QR code and collecting statistic.

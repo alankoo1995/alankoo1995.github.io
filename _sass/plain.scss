@@ -99,6 +99,14 @@ main {
 		}
 	}
 }
+.avatar {
+	width: 150px;
+	height: 150px;
+	background-size: cover;
+	border-radius: 50%;
+	overflow: hidden;
+}
+
 .social {
 	list-style-type: none;
 	padding: 0;

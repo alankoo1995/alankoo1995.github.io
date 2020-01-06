@@ -6,8 +6,4 @@ categories: Laravel PHP
 uri: "http://qrcode.alankoo.me/"
 ---
 
-This system empower staff generating QR code and collecting statistic.
-
-INFORMATION:
-  username: admin
-  password: 123
+This system empower staff generating QR code and collecting statistic. INFORMATION: username: admin password: 123
